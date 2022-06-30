@@ -1,0 +1,15 @@
+/Users/deniz/VSCode_Projects/C_Sharp/app/bin/Debug/net6.0/app
+/Users/deniz/VSCode_Projects/C_Sharp/app/bin/Debug/net6.0/app.deps.json
+/Users/deniz/VSCode_Projects/C_Sharp/app/bin/Debug/net6.0/app.runtimeconfig.json
+/Users/deniz/VSCode_Projects/C_Sharp/app/bin/Debug/net6.0/app.dll
+/Users/deniz/VSCode_Projects/C_Sharp/app/bin/Debug/net6.0/app.pdb
+/Users/deniz/VSCode_Projects/C_Sharp/app/obj/Debug/net6.0/app.csproj.AssemblyReference.cache
+/Users/deniz/VSCode_Projects/C_Sharp/app/obj/Debug/net6.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniz/VSCode_Projects/C_Sharp/app/obj/Debug/net6.0/app.AssemblyInfoInputs.cache
+/Users/deniz/VSCode_Projects/C_Sharp/app/obj/Debug/net6.0/app.AssemblyInfo.cs
+/Users/deniz/VSCode_Projects/C_Sharp/app/obj/Debug/net6.0/app.csproj.CoreCompileInputs.cache
+/Users/deniz/VSCode_Projects/C_Sharp/app/obj/Debug/net6.0/app.dll
+/Users/deniz/VSCode_Projects/C_Sharp/app/obj/Debug/net6.0/refint/app.dll
+/Users/deniz/VSCode_Projects/C_Sharp/app/obj/Debug/net6.0/app.pdb
+/Users/deniz/VSCode_Projects/C_Sharp/app/obj/Debug/net6.0/app.genruntimeconfig.cache
+/Users/deniz/VSCode_Projects/C_Sharp/app/obj/Debug/net6.0/ref/app.dll
